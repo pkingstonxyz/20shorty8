@@ -11,5 +11,10 @@
     "react-dom": "^18.2.0",
     "react-refresh": "^0.14.0",
     "shadow-cljs": "2.22.9"
+  },
+  "dependencies": {
+    "@react-three/fiber": "^8.16.8",
+    "@types/three": "^0.167.1",
+    "three": "^0.167.0"
   }
 }
